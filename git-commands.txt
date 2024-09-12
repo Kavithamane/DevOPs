@@ -48,4 +48,22 @@
 
 	# git push origin main:Branch1		=> Push file from main local branch to remote another branch 
  
-	# git push origin new_branch:Branch1	=> Push file from local another branch to remote another branch  
+	# git push origin new_branch:Branch1	=> Push file from local another branch to remote another branch 
+
+	# git push <url> 
+
+	# git push -f <url> 
+
+	# git pull <url> 
+
+	# git pull origin main 
+
+	# git log --grep "london"
+
+	# git log -1 
+
+	# git log -2 
+
+	# git branch 
+	
+	# git branch <new-branch> 
