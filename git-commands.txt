@@ -44,4 +44,4 @@
 	
 	# git push -u origin <remote-branch-name>  
 
-
+        # git push <remote-url> 
