@@ -1,0 +1,17 @@
+	# git --version 
+
+	# git -v 
+
+	# git init 
+
+	# git config --global user.name "kavitha" 
+
+	# git config --global user.email "kavitha@gmai.com" 
+	
+	# git config --list
+
+	# git status 
+	
+ 
+
+
