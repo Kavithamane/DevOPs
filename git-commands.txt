@@ -44,4 +44,8 @@
 	
 	# git push -u origin <remote-branch-name>  
 
-        # git push <remote-url> 
+        # git push <remote-url>
+
+	# git push origin main:Branch1		=> Push file from main local branch to remote another branch 
+ 
+	# git push origin new_branch:Branch1	=> Push file from local another branch to remote another branch  
