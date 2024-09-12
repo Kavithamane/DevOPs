@@ -12,6 +12,36 @@
 
 	# git status 
 	
- 
+        # git add <file-name> 
+
+	# git add .
+
+	# git rm --cached <file-name>  
+
+	# git restore <file-name>
+	
+	# git restore --stage <file-name> 
+	
+	# git commit -m "Message" 
+	
+	# git show 
+	
+	# git log 
+
+	# git log --online 
+
+	# git show <commit-ID> 
+
+	# git remote -v 
+
+	# git remote add origin https://github.com/Kavithamane/DevOPs-.git
+
+	# git branch 
+
+	# git branch -M main 
+
+	# git config pull.rebase true		=> # pulling file from remote repo 
+	
+	# git push -u origin <remote-branch-name>  
 
 
