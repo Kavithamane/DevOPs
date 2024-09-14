@@ -69,4 +69,68 @@
 	# git branch <new-branch
 
 	# git push origin new-branch-local:main-remote
+	
+	# # git push origin master-local:main-remote 
+
+	# git push <url> 
+
+	# git push -f <url> 
+
+	# git pull <url> 
+
+	# git pull origin main 
+
+	# git log --grep "london"
+
+	# git log -1 
+
+	# git log -2 
+
+	# git branch 
+	
+	# git branch <new-branch> 
+
+	# git checkout <branch-name> 
+
+	# git branch -d <branch-name> 
+
+	# git branch -b <branch-name> 
+	
+	# git checkout -b new-branch> 
+
+	# git revert <commit-id> 
+
+	# git merge <branch-name> 
+
+	# git stash 
+
+	# got stash list 
+
+	# git stash apply stash@{1}
+	
+	# git stash apply stash@{0} 
+	
+	# git stash clear 
+
+	# git reset <file-name> --one file
+
+	# git reset . 
+	
+	# git reset --hard 
+
+	# git rm <file-name> 
+
+	# git clean -n 
+
+	# gir clean -f 
+
+	# git tag 
+	
+	# git tag -a tag-name -m "tagmessage" commit-id
+
+	# git tag -d test 
+
+	# git clone <url> 
+
+
  
