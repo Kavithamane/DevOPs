@@ -132,5 +132,8 @@
 
 	# git clone <url> 
 
+	# git pull origin <remote-branch-name:local-branch-name> 
+
+
 
  
