@@ -1,0 +1,6 @@
+==========================
+Trigger Build remotely:
+
+JENKINS_URL/job/First_Job/build?token=TOKENAME
+
+http://52.207.211.56:8080/job/First_Job/build?token=kavitha
